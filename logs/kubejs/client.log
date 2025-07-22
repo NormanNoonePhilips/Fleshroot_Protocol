@@ -1,0 +1,26 @@
+[17:54:15] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:54:15] [INIT] Loaded plugins:
+[17:54:15] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:54:15] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:54:15] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[17:54:15] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
+[17:54:15] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[17:54:15] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[17:54:15] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[17:54:15] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[17:54:15] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[17:54:15] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:54:15] [INIT] - com.almostreliable.morejs.Plugin
+[17:54:15] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[17:54:15] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[17:54:15] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[17:54:15] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[17:54:15] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:54:15] [INIT] - com.probejs.ProbeJSPlugin
+[17:54:15] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[17:54:15] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[17:54:15] [INIT] - net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin
+[17:54:15] [INFO] description/description.js#31: Hello, World! (Loaded Descriptions server scripts)
+[17:54:15] [INFO] Loaded script client_scripts:description/description.js in 0.038 s
+[17:54:15] [INFO] Loaded 1/1 KubeJS client scripts in 0.141 s with 0 errors and 0 warnings
+[17:54:28] [INFO] Client resource reload complete!
