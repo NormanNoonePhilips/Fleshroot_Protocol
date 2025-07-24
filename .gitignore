@@ -12,6 +12,7 @@ local/
 usernamecache.json
 usercache.json
 .minecraftinstance.json
+minecraftinstance.json
 options.txt
 patchouli_data.json
 TrashSlotSaveState.json
@@ -29,3 +30,5 @@ enigmatic_persistence*
 # Others
 .DS_Store
 Thumbs.db
+config/fabric/
+data/
