@@ -247,7 +247,7 @@
     B:RingofEnderEnabled=true
 
     # Whether or not Ring of the Seven Curses should be enabled. [default: true, synchronized: yes]
-    B:RingoftheSevenCursesEnabled=false
+    B:RingoftheSevenCursesEnabled=true
 
     # Whether or not Scroll of Ageless Wisdom should be enabled. [default: true, synchronized: yes]
     B:ScrollofAgelessWisdomEnabled=false
@@ -785,7 +785,7 @@
     B:CursedRingAutoEquip=false
 
     # Set to false to disable ALL special drops that can be obtained from vanilla mobs when bearing Ring of the Seven Curses. [default: true, synchronized: yes]
-    B:CursedRingEnableSpecialDrops=true
+    B:CursedRingEnableSpecialDrops=false
 
     # How much additional Enchanting Power ring provides in Enchanting Table. [range: 0 ~ 32768, default: 10, synchronized: yes]
     I:CursedRingEnchantingBonus=10
