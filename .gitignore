@@ -1,0 +1,31 @@
+# Eclipse/VSCode project files
+.vscode/
+.classpath
+.project
+defaultconfigs/
+
+# Minecraft Forge runtime/generated files
+logs/
+crash-reports/
+saves/
+local/
+usernamecache.json
+usercache.json
+.minecraftinstance.json
+options.txt
+patchouli_data.json
+TrashSlotSaveState.json
+user-prefs.json
+rhino.local.properties
+fancymenu_data/
+journeymap/
+skilltree/
+
+# Modpack launcher artifacts
+.curseclient
+.qmenu_opened.marker
+enigmatic_persistence*
+
+# Others
+.DS_Store
+Thumbs.db
