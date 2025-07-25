@@ -29,7 +29,7 @@
     B:DisableQuoteSubtitles=false
 
     # Whether or not button for accessing Ender Chest should be added to inventory GUI when player has Ring of Ender equipped. [default: true]
-    B:EnderChestButtonEnabled=true
+    B:EnderChestButtonEnabled=false
 
     # Allows to set offset for Ender Chest button on X axis. [range: -32768 ~ 32768, default: 0]
     I:EnderChestButtonOffsetX=0
