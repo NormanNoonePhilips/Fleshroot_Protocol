@@ -2,7 +2,7 @@
 
 ## Main Objectives
 - [ ] Set **FTB Quests**
-- [ ] Remove all inventories and chests when breaking
+- [x] Remove all inventories and chests when breaking
 - [ ] Remove light items when breaking
 - [ ] Create multiblock machineries
 - [ ] Set multiblock machineries
@@ -22,7 +22,7 @@
 - [ ] Block & configure **Blood Magic**
 - [ ] Block & configure **Forbidden Arcanus**
 - [ ] Block useless **Enigmatic Legacy** items
-- [ ] Remove **Born in Chaos** completely
+- [x] Remove **Born in Chaos** completely
 - [ ] Block base food from **Farmer’s Delight**
 - [ ] Configure food from **Dungeon Delight**
 - [ ] Configure food from **Enigmatic Delicacy**
