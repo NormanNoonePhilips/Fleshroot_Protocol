@@ -15,9 +15,6 @@
 			pewen = true
 			thornwood = true
 
-		[types.wood_type.born_in_chaos_v1]
-			scorched = true
-
 		[types.wood_type.cataclysm]
 			chorus = true
 

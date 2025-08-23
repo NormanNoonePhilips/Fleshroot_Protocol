@@ -81,10 +81,6 @@
   "jadeaddons.lootr": {
     "info": true
   },
-  "avaritia": {
-    "extreme": true,
-    "compressor": true
-  },
   "pipez": {
     "pipe": true
   },
@@ -97,7 +93,8 @@
     "mod_name": true
   },
   "apotheosis": {
-    "ench": true
+    "ench": true,
+    "spawner": true
   },
   "gravestone": {
     "grave": true
