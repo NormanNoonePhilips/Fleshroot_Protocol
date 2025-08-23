@@ -1,6 +1,6 @@
 # Configuration File
 
-@CONFIG_VERSION: 1.2.4
+@CONFIG_VERSION: 1.2.5
 
 ##########################################################################################################
 # Accessibility Options
@@ -20,31 +20,31 @@
     B:CharmofHellBladeEnabled=true
 
     # Whether or not Charm of Scorched Sun should be enabled. [default: true, synchronized: yes]
-    B:CharmofScorchedSunEnabled=false
+    B:CharmofScorchedSunEnabled=true
 
     # Whether or not Common Potions should be enabled. [default: true, synchronized: yes]
-    B:CommonPotionsEnabled=false
+    B:CommonPotionsEnabled=true
 
     # Whether or not Curse of Redemption Enchantment should be enabled. [default: true, synchronized: yes]
-    B:CurseofRedemptionEnchantmentEnabled=false
+    B:CurseofRedemptionEnchantmentEnabled=true
 
     # Whether or not Disaster Broadsword should be enabled. [default: true, synchronized: yes]
-    B:DisasterBroadswordEnabled=false
+    B:DisasterBroadswordEnabled=true
 
     # Whether or not Dragon Breath Bow should be enabled. [default: true, synchronized: yes]
-    B:DragonBreathBowEnabled=false
+    B:DragonBreathBowEnabled=true
 
     # Whether or not Emblem of Adventurer should be enabled. [default: true, synchronized: yes]
     B:EmblemofAdventurerEnabled=true
 
     # Whether or not Enigmatic Pearl should be enabled. [default: true, synchronized: yes]
-    B:EnigmaticPearlEnabled=false
+    B:EnigmaticPearlEnabled=true
 
     # Whether or not Etherium Core should be enabled. [default: true, synchronized: yes]
     B:EtheriumCoreEnabled=true
 
     # Whether or not False Justice should be enabled. [default: true, synchronized: yes]
-    B:FalseJusticeEnabled=false
+    B:FalseJusticeEnabled=true
 
     # Whether or not Forgers Gem should be enabled. [default: true, synchronized: yes]
     B:ForgersGemEnabled=true
@@ -56,16 +56,16 @@
     B:FragmentoftheEarthEnabled=true
 
     # Whether or not Frost Aspect Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostAspectEnchantmentEnabled=false
+    B:FrostAspectEnchantmentEnabled=true
 
     # Whether or not Frost Protection Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostProtectionEnchantmentEnabled=false
+    B:FrostProtectionEnchantmentEnabled=true
 
     # Whether or not Frost Shattering Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostShatteringEnchantmentEnabled=false
+    B:FrostShatteringEnchantmentEnabled=true
 
     # Whether or not Holy Stone should be enabled. [default: true, synchronized: yes]
-    B:HolyStoneEnabled=false
+    B:HolyStoneEnabled=true
 
     # Whether or not Ichor Droplet should be enabled. [default: true, synchronized: yes]
     B:IchorDropletEnabled=true
@@ -77,13 +77,13 @@
     B:IchorootEnabled=true
 
     # Whether or not Insignia of Despair should be enabled. [default: true, synchronized: yes]
-    B:InsigniaofDespairEnabled=false
+    B:InsigniaofDespairEnabled=true
 
     # Whether or not Lost Engine should be enabled. [default: true, synchronized: yes]
     B:LostEngineEnabled=true
 
     # Whether or not Magic Quartz Flower should be enabled. [default: true, synchronized: yes]
-    B:MagicQuartzFlowerEnabled=false
+    B:MagicQuartzFlowerEnabled=true
 
     # Whether or not Magic Quartz Ring should be enabled. [default: true, synchronized: yes]
     B:MagicQuartzRingEnabled=true
@@ -95,19 +95,19 @@
     B:OdetoLivingBeingsEnabled=true
 
     # Whether or not Pact of Dark Night should be enabled. [default: true, synchronized: yes]
-    B:PactofDarkNightEnabled=false
+    B:PactofDarkNightEnabled=true
 
     # Whether or not Potion of Cosmic should be enabled. [default: true, synchronized: yes]
-    B:PotionofCosmicEnabled=false
+    B:PotionofCosmicEnabled=true
 
     # Whether or not Primeval Cube should be enabled. [default: true, synchronized: yes]
-    B:PrimevalCubeEnabled=false
+    B:PrimevalCubeEnabled=true
 
     # Whether or not Promise of the Earth should be enabled. [default: true, synchronized: yes]
-    B:PromiseoftheEarthEnabled=false
+    B:PromiseoftheEarthEnabled=true
 
     # Whether or not Pure Heart should be enabled. [default: true, synchronized: yes]
-    B:PureHeartEnabled=false
+    B:PureHeartEnabled=true
 
     # Whether or not Revival Leaf should be enabled. [default: true, synchronized: yes]
     B:RevivalLeafEnabled=true
@@ -115,41 +115,44 @@
     # Whether or not Ring of Redemption should be enabled. [default: true, synchronized: yes]
     B:RingofRedemptionEnabled=true
 
+    # Whether or not Ring of Ultimate Luxury should be enabled. [default: true, synchronized: yes]
+    B:RingofUltimateLuxuryEnabled=true
+
     # Whether or not Sanguinary Hunting Handbook should be enabled. [default: true, synchronized: yes]
-    B:SanguinaryHuntingHandbookEnabled=false
+    B:SanguinaryHuntingHandbookEnabled=true
 
     # Whether or not Scepter of Extradimensional should be enabled. [default: true, synchronized: yes]
-    B:ScepterofExtradimensionalEnabled=false
+    B:ScepterofExtradimensionalEnabled=true
 
     # Whether or not Scroll of Ignorance Curse should be enabled. [default: true, synchronized: yes]
-    B:ScrollofIgnoranceCurseEnabled=false
+    B:ScrollofIgnoranceCurseEnabled=true
 
     # Whether or not Scroll of Thunder Embrace should be enabled. [default: true, synchronized: yes]
-    B:ScrollofThunderEmbraceEnabled=false
+    B:ScrollofThunderEmbraceEnabled=true
 
     # Whether or not Soul Lantern of Illusion should be enabled. [default: true, synchronized: yes]
     B:SoulLanternofIllusionEnabled=true
 
     # Whether or not The Arrogance of Chaos should be enabled. [default: true, synchronized: yes]
-    B:TheArroganceofChaosEnabled=false
+    B:TheArroganceofChaosEnabled=true
 
     # Whether or not The Bless should be enabled. [default: true, synchronized: yes]
-    B:TheBlessEnabled=false
+    B:TheBlessEnabled=true
 
     # Whether or not The Curse Carver should be enabled. [default: true, synchronized: yes]
     B:TheCurseCarverEnabled=true
 
     # Whether or not Tome of Divination should be enabled. [default: true, synchronized: yes]
-    B:TomeofDivinationEnabled=false
+    B:TomeofDivinationEnabled=true
 
     # Whether or not Tome of Void should be enabled. [default: true, synchronized: yes]
-    B:TomeofVoidEnabled=false
+    B:TomeofVoidEnabled=true
 
     # Whether or not Totem of Malice should be enabled. [default: true, synchronized: yes]
-    B:TotemofMaliceEnabled=false
+    B:TotemofMaliceEnabled=true
 
     # Whether or not Ultimate Potions should be enabled. [default: true, synchronized: yes]
-    B:UltimatePotionsEnabled=false
+    B:UltimatePotionsEnabled=true
 }
 
 
@@ -237,6 +240,49 @@
 
     # The damage modifier per every this curse. [range: 0 ~ 40, default: 4, synchronized: yes]
     I:CurseofRedemptionEnchantmentResistanceModifier=4
+
+    # Attack speed increase provided by the Curse of Violence for absorbed curse. Measured as percentage. [range: 1 ~ 10, default: 4, synchronized: yes]
+    I:CurseofViolenceAttackSpeedBoost=4
+
+    # The base damage boost for curse absorbed. Measured as percentage. [range: 0 ~ 32768, default: 10, synchronized: yes]
+    I:CurseofViolenceBaseCurseModifier=10
+
+    # The damage boost per every curse absorbed. Measured as percentage. [range: 0 ~ 100, default: 5, synchronized: yes]
+    I:CurseofViolenceBoostPerCurseModifier=5
+
+    # Entity reach range increase provided by the Curse of Violence for absorbed curse. Measured as percentage. [range: 1 ~ 10, default: 3, synchronized: yes]
+    I:CurseofViolenceEntityReachBoost=3
+
+    # Attack Damage Modifier when attack during the invulnerable time provided by the Curse of Violence. Measured as percentage. [range: 100 ~ 32768, default: 200, synchronized: yes]
+    I:CurseofViolenceInvulnerableAttackModifier=200
+
+    # The heal multiplier when attack during the invulnerable time provided by the Curse of Violence. Measured as percentage. [range: 0 ~ 100, default: 40, synchronized: yes]
+    I:CurseofViolenceInvulnerableHealMultiplier=40
+
+    # Knockback Resistance increase provided by the Curse of Violence for absorbed curse. [range: 0.0 ~ 32768.0, default: 0.025, synchronized: yes]
+    D:CurseofViolenceKnockbackResistanceBoost=0.025
+
+    # The max energy count of the Curse of Violence. [range: 100 ~ 32768, default: 200, synchronized: yes]
+    I:CurseofViolenceMaxDurability=200
+
+    # The damage resistance when charging with the Decision of Annihilation. Measured as percentage. [range: 0 ~ 90, default: 80, synchronized: yes]
+    I:DecisionofAnnihilationChargingDamageResistance=80
+
+    # List of items that will be the crafting ingredients of the Decision of Annihilation. Examples: enigmaticlegacy:etherium_ingot. Changing this option required game restart to take effect. [default: [enigmaticlegacy:cosmic_heart], [enigmaticlegacy:evil_ingot], [enigmaticlegacy:twisted_heart], synchronized: no]
+    S:DecisionofAnnihilationCraftingIngredients <
+        enigmaticlegacy:cosmic_heart
+        enigmaticlegacy:evil_ingot
+        enigmaticlegacy:twisted_heart
+     >
+
+    # The damage modifier per every level of damage enchantments. Measured as percentage. [range: 10 ~ 32768, default: 15, synchronized: yes]
+    I:DecisionofAnnihilationDamageEnchantmentPerModifier=15
+
+    # The damage multiplier per every level of energy. Measured as percentage. [range: 10 ~ 32768, default: 20, synchronized: yes]
+    I:DecisionofAnnihilationEnergyMultiplier=20
+
+    # The damage modifier when offhand is empty. Measured as percentage. [range: 100 ~ 32768, default: 100, synchronized: yes]
+    I:DecisionofAnnihilationOnlyMainHandModifier=100
 
     # The damage modifier when you has the Bad Omen effect. [range: 0.0 ~ 100.0, default: 0.15, synchronized: yes]
     D:DisasterBroadswordBadOmenDamageBoost=0.15
@@ -340,8 +386,8 @@
     # Active ability cooldown for Lost Engine. Measured in ticks. 20 ticks equal to 1 second. [range: 0 ~ 32768, default: 0, synchronized: yes]
     I:LostEngineCooldown=0
 
-    # The crit damage modifier of the Lost Engine. [range: 0 ~ 256, default: 60, synchronized: yes]
-    I:LostEngineCritDamageModifier=60
+    # The crit damage modifier of the Lost Engine. [range: 0 ~ 256, default: 35, synchronized: yes]
+    I:LostEngineCritDamageModifier=35
 
     # List of entities that will be affected as Golem by the Lost Engine. Examples: minecraft:iron_golem. Changing this option required game restart to take effect. [default: , synchronized: no]
     S:LostEngineExtraGolemList <
@@ -440,6 +486,13 @@
     # The time required for each regeneration of Ring of Redemption. Measured in ticks. [range: 5 ~ 32768, default: 20, synchronized: yes]
     I:RingofRedemptionRegenerationTick=20
 
+    # The damage boost multiplier of the Ring of Ultimate Luxury . [range: 0.0 ~ 2.0, default: 0.5, synchronized: yes]
+    D:RingofUltimateLuxuryDamageBoostMultiplier=0.5
+
+    # List of entities that will be affected as Golem by the Ring of Ultimate Luxury. Examples: minecraft:iron_golem. Changing this option required game restart to take effect. [default: , synchronized: no]
+    S:RingofUltimateLuxuryExtraMerchantList <
+     >
+
     # The damage boost on pet of Sanguinary Hunting Handbook. [range: 0.0 ~ 32768.0, default: 0.25, synchronized: yes]
     D:SanguinaryHuntingHandbookDamageMultiplier=0.25
 
@@ -508,6 +561,13 @@
 
     # The hurt interval time of cursed target. Measured as ticks. [range: 1 ~ 40, default: 12, synchronized: yes]
     I:TheCurseCarverCurseHurtInterval=12
+
+    # When set to false, only the upper limit of ONE level will be exceeded. [default: true, synchronized: yes]
+    B:TomeofDivinationAmplifyMode=true
+
+    # List of enchantments that will not be affected by the Tome of Divination. Examples: minecraft:sharpness. Changing this option required game restart to take effect. [default: , synchronized: no]
+    S:TomeofDivinationBlacklist <
+     >
 
     # List of entities that will be affected as Raider by the Totem of Malice. Examples: minecraft:witch. Changing this option required game restart to take effect. [default: , synchronized: no]
     S:TotemofMaliceExtraRaiderList <
