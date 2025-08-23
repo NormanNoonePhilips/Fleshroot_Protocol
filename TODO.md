@@ -18,7 +18,7 @@
 - [ ] Configure **Apotheosis** enchantment books
 - [ ] Configure **Apotheosis** spawners
 - [ ] DELETE all **Mekanism** crafting stations  
-  - [ ] (Maybe transform into multiblock machineries)
+  - [ ] \(Maybe transform into multiblock machineries)
 - [ ] Block & configure **Blood Magic**
 - [ ] Block & configure **Forbidden Arcanus**
 - [ ] Block useless **Enigmatic Legacy** items
@@ -47,7 +47,7 @@
 - [ ] Configure **Eldritch End** drops for progression
 - [ ] Configure ALL mob & boss spawning with **InControl**
 - [ ] Decide if **Battle Portals** will be used  
-  - [ ] If yes, configure mob portal battles
+  - [ ] \(If yes, configure mob portal battles)
 
 ---
 
