@@ -77,6 +77,17 @@
         "value": 1000
       }
     },
+    "scguns:spread_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "irons_spellbooks:nature_spell_power": {
       "enabled": false,
       "min": {
@@ -119,6 +130,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "scguns:projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:lightning_magic_resist": {
@@ -253,6 +275,17 @@
         "value": 100
       }
     },
+    "scguns:additional_bullet_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1000,
+        "value": -1000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "irons_spellbooks:cast_time_reduction": {
       "enabled": false,
       "min": {
@@ -385,6 +418,17 @@
         "value": 1000000
       }
     },
+    "dungeons_and_combat:action_state": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "irons_spellbooks:fire_magic_resist": {
       "enabled": false,
       "min": {
@@ -484,6 +528,17 @@
         "value": 1024
       }
     },
+    "scguns:reload_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "minecraft:generic.attack_speed": {
       "enabled": true,
       "min": {
@@ -537,6 +592,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "scguns:bullet_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "minecraft:generic.armor": {
@@ -627,7 +693,7 @@
         "value": 100
       }
     },
-    "cataclysm_spellbooks:technomancy_spell_power": {
+    "attributeslib:mining_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -638,7 +704,7 @@
         "value": 10
       }
     },
-    "attributeslib:mining_speed": {
+    "cataclysm_spellbooks:technomancy_spell_power": {
       "enabled": false,
       "min": {
         "default": 0,

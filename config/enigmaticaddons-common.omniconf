@@ -1,6 +1,6 @@
 # Configuration File
 
-@CONFIG_VERSION: 1.2.5
+@CONFIG_VERSION: 1.2.5.2
 
 ##########################################################################################################
 # Accessibility Options
@@ -173,7 +173,7 @@
         goety_revelation:resistance
      >
 
-    # List of Effects that will never appear in Magic Quartz Flower. Changing this option required game restart to take effect. [default: [alexscaves:darkness_incarnate], [alexsmobs:oiled], [aquamirae:crystallization], [born_in_chaos_v1:light_rampage], [born_in_chaos_v1:medium_rampage], [born_in_chaos_v1:strong_rampage], [born_in_chaos_v1:furious_rampage], [born_in_chaos_v1:rampant_rampage], [cataclysm:ghost_form], [cataclysm:ghost_sickness], [enigmaticdelicacy:fading], [enigmaticlegacy:blazing_strength], [goety:shadow_walk], [irons_spellbooks:abyssal_shroud], [irons_spellbooks:evasion], [irons_spellbooks:heartstop], [irons_spellbooks:true_invisibility], [ltc2:undying_benediction], [more_potion_effects:extension], [more_potion_effects:immortal], [more_potion_effects:static_life], [supernatural:supernatural], [unusual_delight:crystal_aspect], [unusual_delight:ember_aspect], [unusual_delight:vitality], synchronized: no]
+    # List of Effects that will never appear in Magic Quartz Flower. Changing this option required game restart to take effect. [default: [alexscaves:darkness_incarnate], [alexsmobs:oiled], [aquamirae:crystallization], [born_in_chaos_v1:light_rampage], [born_in_chaos_v1:medium_rampage], [born_in_chaos_v1:strong_rampage], [born_in_chaos_v1:furious_rampage], [born_in_chaos_v1:rampant_rampage], [cataclysm:ghost_form], [cataclysm:ghost_sickness], [enigmaticdelicacy:astral_drunkenness], [enigmaticdelicacy:abyss_corruption], [enigmaticdelicacy:fading], [enigmaticdelicacy:health_curse], [enigmaticlegacy:blazing_strength], [goety:shadow_walk], [irons_spellbooks:abyssal_shroud], [irons_spellbooks:evasion], [irons_spellbooks:heartstop], [irons_spellbooks:true_invisibility], [ltc2:undying_benediction], [more_potion_effects:extension], [more_potion_effects:immortal], [more_potion_effects:static_life], [supernatural:supernatural], [unusual_delight:crystal_aspect], [unusual_delight:ember_aspect], [unusual_delight:vitality], synchronized: no]
     S:ArtificialFlowerEffectBlackList <
         alexscaves:darkness_incarnate
         alexsmobs:oiled
@@ -185,7 +185,10 @@
         born_in_chaos_v1:rampant_rampage
         cataclysm:ghost_form
         cataclysm:ghost_sickness
+        enigmaticdelicacy:astral_drunkenness
+        enigmaticdelicacy:abyss_corruption
         enigmaticdelicacy:fading
+        enigmaticdelicacy:health_curse
         enigmaticlegacy:blazing_strength
         goety:shadow_walk
         irons_spellbooks:abyssal_shroud
