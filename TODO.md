@@ -50,6 +50,12 @@
 
 ---
 
+## Custom items
+- [ ] Simple robe inspired by Macabre mod
+- [ ] Heavy armor inspired by Macabre mod
+
+---
+
 ## Notes
 - Keep configs consistent with **game stages** progression.
 - Prioritize balancing drops, spawns, and machine power consumption.

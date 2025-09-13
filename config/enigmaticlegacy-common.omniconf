@@ -31,13 +31,13 @@
     B:AngelsBlessingEnabled=false
 
     # Whether or not Astral Breaker should be enabled. [default: true, synchronized: yes]
-    B:AstralBreakerEnabled=true
+    B:AstralBreakerEnabled=false
 
     # Whether or not Astral Dust should be enabled. [default: true, synchronized: yes]
-    B:AstralDustEnabled=true
+    B:AstralDustEnabled=false
 
     # Whether or not Astral Potato should be enabled. [default: true, synchronized: yes]
-    B:AstralPotatoEnabled=true
+    B:AstralPotatoEnabled=false
 
     # Whether or not Axe of Executioner should be enabled. [default: true, synchronized: yes]
     B:AxeofExecutionerEnabled=false
@@ -46,7 +46,7 @@
     B:BlankScrollEnabled=false
 
     # Whether or not Blazing Core should be enabled. [default: true, synchronized: yes]
-    B:BlazingCoreEnabled=true
+    B:BlazingCoreEnabled=false
 
     # Whether or not bonus recipes for wool dyeing should be enabled. [default: true, synchronized: yes]
     B:BonusWoolRecipesEnabled=false
@@ -67,7 +67,7 @@
     B:CharmingInsigniaEnabled=false
 
     # Whether or not Charm of Treasure Hunter should be enabled. [default: true, synchronized: yes]
-    B:CharmofTreasureHunterEnabled=true
+    B:CharmofTreasureHunterEnabled=false
 
     # Whether or not Common Potions should be enabled. [default: true, synchronized: yes]
     B:CommonPotionsEnabled=false
@@ -115,52 +115,52 @@
     B:EnchantersPearlEnabled=false
 
     # Whether or not Ender Rod should be enabled. [default: true, synchronized: yes]
-    B:EnderRodEnabled=true
+    B:EnderRodEnabled=false
 
     # Whether or not Enigmatic Amulet should be enabled. [default: true, synchronized: yes]
-    B:EnigmaticAmuletEnabled=true
+    B:EnigmaticAmuletEnabled=false
 
     # Whether or not Essence of Raging Life should be enabled. [default: true, synchronized: yes]
-    B:EssenceofRagingLifeEnabled=true
+    B:EssenceofRagingLifeEnabled=false
 
     # Whether or not Etherium Armor should be enabled. [default: true, synchronized: yes]
-    B:EtheriumArmorEnabled=true
+    B:EtheriumArmorEnabled=false
 
     # Whether or not Etherium Broadsword should be enabled. [default: true, synchronized: yes]
-    B:EtheriumBroadswordEnabled=true
+    B:EtheriumBroadswordEnabled=false
 
     # Whether or not Etherium Ingot should be enabled. [default: true, synchronized: yes]
-    B:EtheriumIngotEnabled=true
+    B:EtheriumIngotEnabled=false
 
     # Whether or not Etherium Nugget should be enabled. [default: true, synchronized: yes]
-    B:EtheriumNuggetEnabled=true
+    B:EtheriumNuggetEnabled=false
 
     # Whether or not Etherium Ore should be enabled. [default: true, synchronized: yes]
-    B:EtheriumOreEnabled=true
+    B:EtheriumOreEnabled=false
 
     # Whether or not Etherium Pickaxe should be enabled. [default: true, synchronized: yes]
-    B:EtheriumPickaxeEnabled=true
+    B:EtheriumPickaxeEnabled=false
 
     # Whether or not Etherium Scraps should be enabled. [default: true, synchronized: yes]
-    B:EtheriumScrapsEnabled=true
+    B:EtheriumScrapsEnabled=false
 
     # Whether or not Etherium Scythe should be enabled. [default: true, synchronized: yes]
-    B:EtheriumScytheEnabled=true
+    B:EtheriumScytheEnabled=false
 
     # Whether or not Etherium Shovel should be enabled. [default: true, synchronized: yes]
-    B:EtheriumShovelEnabled=true
+    B:EtheriumShovelEnabled=false
 
     # Whether or not Etherium Waraxe should be enabled. [default: true, synchronized: yes]
-    B:EtheriumWaraxeEnabled=true
+    B:EtheriumWaraxeEnabled=false
 
     # Whether or not Exquisite Ring should be enabled. [default: true, synchronized: yes]
-    B:ExquisiteRingEnabled=true
+    B:ExquisiteRingEnabled=false
 
     # Whether or not Extradimensional Eye should be enabled. [default: true, synchronized: yes]
     B:ExtradimensionalEyeEnabled=false
 
     # Whether or not Eye of Nebula should be enabled. [default: true, synchronized: yes]
-    B:EyeofNebulaEnabled=true
+    B:EyeofNebulaEnabled=false
 
     # Whether or not Forbidden Fruit should be enabled. [default: true, synchronized: yes]
     B:ForbiddenFruitEnabled=false
@@ -172,64 +172,64 @@
     B:GraceoftheCreatorEnabled=false
 
     # Whether or not Guide to Feral Hunt should be enabled. [default: true, synchronized: yes]
-    B:GuidetoFeralHuntEnabled=true
+    B:GuidetoFeralHuntEnabled=false
 
     # Whether or not Guite to Animal Companionship should be enabled. [default: true, synchronized: yes]
-    B:GuitetoAnimalCompanionshipEnabled=true
+    B:GuitetoAnimalCompanionshipEnabled=false
 
     # Whether or not Heart of the Abyss should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheAbyssEnabled=true
+    B:HeartoftheAbyssEnabled=false
 
     # Whether or not Heart of the Cosmos should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheCosmosEnabled=true
+    B:HeartoftheCosmosEnabled=false
 
     # Whether or not Heart of the Earth should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheEarthEnabled=true
+    B:HeartoftheEarthEnabled=false
 
     # Whether or not Heart of the Golem should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheGolemEnabled=true
+    B:HeartoftheGolemEnabled=false
 
     # Whether or not Heart of the Guardian should be enabled. [default: true, synchronized: yes]
     B:HeartoftheGuardianEnabled=false
 
     # Whether or not Inscrutable Eye should be enabled. [default: true, synchronized: yes]
-    B:InscrutableEyeEnabled=true
+    B:InscrutableEyeEnabled=false
 
     # Whether or not Iron Ring should be enabled. [default: true, synchronized: yes]
-    B:IronRingEnabled=true
+    B:IronRingEnabled=false
 
     # Whether or not Keystone of The Oblivion should be enabled. [default: true, synchronized: yes]
-    B:KeystoneofTheOblivionEnabled=true
+    B:KeystoneofTheOblivionEnabled=false
 
     # Whether or not Lore Fragment should be enabled. [default: true, synchronized: yes]
-    B:LoreFragmentEnabled=true
+    B:LoreFragmentEnabled=false
 
     # Whether or not Magnet Ring should be enabled. [default: true, synchronized: yes]
-    B:MagnetRingEnabled=true
+    B:MagnetRingEnabled=false
 
     # Whether or not Majestic Elytra should be enabled. [default: true, synchronized: yes]
     B:MajesticElytraEnabled=false
 
     # Whether or not Megasponge should be enabled. [default: true, synchronized: yes]
-    B:MegaspongeEnabled=true
+    B:MegaspongeEnabled=false
 
     # Whether or not Mending Mixture should be enabled. [default: true, synchronized: yes]
-    B:MendingMixtureEnabled=true
+    B:MendingMixtureEnabled=false
 
     # Whether or not Nefarious Essence should be enabled. [default: true, synchronized: yes]
-    B:NefariousEssenceEnabled=true
+    B:NefariousEssenceEnabled=false
 
     # Whether or not Nefarious Ingot should be enabled. [default: true, synchronized: yes]
-    B:NefariousIngotEnabled=true
+    B:NefariousIngotEnabled=false
 
     # Whether or not Non-Euclidean Cube should be enabled. [default: true, synchronized: yes]
-    B:NonEuclideanCubeEnabled=true
+    B:NonEuclideanCubeEnabled=false
 
     # Whether or not Pact of Infinite Avarice should be enabled. [default: true, synchronized: yes]
     B:PactofInfiniteAvariceEnabled=false
 
     # Whether or not Pearl of the Void should be enabled. [default: true, synchronized: yes]
-    B:PearloftheVoidEnabled=true
+    B:PearloftheVoidEnabled=false
 
     # Whether or not Potion of Recall should be enabled. [default: true, synchronized: yes]
     B:PotionofRecallEnabled=false
@@ -238,16 +238,16 @@
     B:PotionofTwistedMercyEnabled=false
 
     # If true, Enigmatic Legacy will cycle through each player's recipe book and trigger 'minecraft:recipe_unlocked' criterion trigger for everything that they have unlocked upon player joining the world. [default: true, synchronized: no]
-    B:RetriggerRecipeUnlocks=true
+    B:RetriggerRecipeUnlocks=false
 
     # Whether or not Ring of Dislocation should be enabled. [default: true, synchronized: yes]
-    B:RingofDislocationEnabled=true
+    B:RingofDislocationEnabled=false
 
     # Whether or not Ring of Ender should be enabled. [default: true, synchronized: yes]
-    B:RingofEnderEnabled=true
+    B:RingofEnderEnabled=false
 
     # Whether or not Ring of the Seven Curses should be enabled. [default: true, synchronized: yes]
-    B:RingoftheSevenCursesEnabled=true
+    B:RingoftheSevenCursesEnabled=false
 
     # Whether or not Scroll of Ageless Wisdom should be enabled. [default: true, synchronized: yes]
     B:ScrollofAgelessWisdomEnabled=false
@@ -265,13 +265,13 @@
     B:SlayerEnchantmentEnabled=false
 
     # Whether or not Soul Dust should be enabled. [default: true, synchronized: yes]
-    B:SoulDustEnabled=true
+    B:SoulDustEnabled=false
 
     # Whether or not Tattered Tome should be enabled. [default: true, synchronized: yes]
     B:TatteredTomeEnabled=false
 
     # Whether or not The Acknowledgment should be enabled. [default: true, synchronized: yes]
-    B:TheAcknowledgmentEnabled=true
+    B:TheAcknowledgmentEnabled=false
 
     # Whether or not The Architect's Inkwell should be enabled. [default: true, synchronized: yes]
     B:TheArchitectsInkwellEnabled=false
@@ -322,7 +322,7 @@
     B:WayfinderoftheDamnedEnabled=false
 
     # Whether or not Will of the Ocean should be enabled. [default: true, synchronized: yes]
-    B:WilloftheOceanEnabled=true
+    B:WilloftheOceanEnabled=false
 
     # Whether or not Withered Tome should be enabled. [default: true, synchronized: yes]
     B:WitheredTomeEnabled=false

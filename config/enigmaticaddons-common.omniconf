@@ -11,148 +11,148 @@
 
 "Accessibility Options" {
     # Whether or not Antique Book Bag should be enabled. [default: true, synchronized: yes]
-    B:AntiqueBookBagEnabled=true
+    B:AntiqueBookBagEnabled=false
 
     # Whether or not Astral Spear should be enabled. [default: true, synchronized: yes]
-    B:AstralSpearEnabled=true
+    B:AstralSpearEnabled=false
 
     # Whether or not Charm of Hell Blade should be enabled. [default: true, synchronized: yes]
-    B:CharmofHellBladeEnabled=true
+    B:CharmofHellBladeEnabled=false
 
     # Whether or not Charm of Scorched Sun should be enabled. [default: true, synchronized: yes]
-    B:CharmofScorchedSunEnabled=true
+    B:CharmofScorchedSunEnabled=false
 
     # Whether or not Common Potions should be enabled. [default: true, synchronized: yes]
-    B:CommonPotionsEnabled=true
+    B:CommonPotionsEnabled=false
 
     # Whether or not Curse of Redemption Enchantment should be enabled. [default: true, synchronized: yes]
-    B:CurseofRedemptionEnchantmentEnabled=true
+    B:CurseofRedemptionEnchantmentEnabled=false
 
     # Whether or not Disaster Broadsword should be enabled. [default: true, synchronized: yes]
-    B:DisasterBroadswordEnabled=true
+    B:DisasterBroadswordEnabled=false
 
     # Whether or not Dragon Breath Bow should be enabled. [default: true, synchronized: yes]
-    B:DragonBreathBowEnabled=true
+    B:DragonBreathBowEnabled=false
 
     # Whether or not Emblem of Adventurer should be enabled. [default: true, synchronized: yes]
-    B:EmblemofAdventurerEnabled=true
+    B:EmblemofAdventurerEnabled=false
 
     # Whether or not Enigmatic Pearl should be enabled. [default: true, synchronized: yes]
-    B:EnigmaticPearlEnabled=true
+    B:EnigmaticPearlEnabled=false
 
     # Whether or not Etherium Core should be enabled. [default: true, synchronized: yes]
-    B:EtheriumCoreEnabled=true
+    B:EtheriumCoreEnabled=false
 
     # Whether or not False Justice should be enabled. [default: true, synchronized: yes]
-    B:FalseJusticeEnabled=true
+    B:FalseJusticeEnabled=false
 
     # Whether or not Forgers Gem should be enabled. [default: true, synchronized: yes]
-    B:ForgersGemEnabled=true
+    B:ForgersGemEnabled=false
 
     # Whether or not Forgotten Ice Crystal should be enabled. [default: true, synchronized: yes]
-    B:ForgottenIceCrystalEnabled=true
+    B:ForgottenIceCrystalEnabled=false
 
     # Whether or not Fragment of the Earth should be enabled. [default: true, synchronized: yes]
-    B:FragmentoftheEarthEnabled=true
+    B:FragmentoftheEarthEnabled=false
 
     # Whether or not Frost Aspect Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostAspectEnchantmentEnabled=true
+    B:FrostAspectEnchantmentEnabled=false
 
     # Whether or not Frost Protection Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostProtectionEnchantmentEnabled=true
+    B:FrostProtectionEnchantmentEnabled=false
 
     # Whether or not Frost Shattering Enchantment should be enabled. [default: true, synchronized: yes]
-    B:FrostShatteringEnchantmentEnabled=true
+    B:FrostShatteringEnchantmentEnabled=false
 
     # Whether or not Holy Stone should be enabled. [default: true, synchronized: yes]
-    B:HolyStoneEnabled=true
+    B:HolyStoneEnabled=false
 
     # Whether or not Ichor Droplet should be enabled. [default: true, synchronized: yes]
-    B:IchorDropletEnabled=true
+    B:IchorDropletEnabled=false
 
     # Whether or not Ichor Spear should be enabled. [default: true, synchronized: yes]
-    B:IchorSpearEnabled=true
+    B:IchorSpearEnabled=false
 
     # Whether or not Ichoroot should be enabled. [default: true, synchronized: yes]
-    B:IchorootEnabled=true
+    B:IchorootEnabled=false
 
     # Whether or not Insignia of Despair should be enabled. [default: true, synchronized: yes]
-    B:InsigniaofDespairEnabled=true
+    B:InsigniaofDespairEnabled=false
 
     # Whether or not Lost Engine should be enabled. [default: true, synchronized: yes]
-    B:LostEngineEnabled=true
+    B:LostEngineEnabled=false
 
     # Whether or not Magic Quartz Flower should be enabled. [default: true, synchronized: yes]
-    B:MagicQuartzFlowerEnabled=true
+    B:MagicQuartzFlowerEnabled=false
 
     # Whether or not Magic Quartz Ring should be enabled. [default: true, synchronized: yes]
-    B:MagicQuartzRingEnabled=true
+    B:MagicQuartzRingEnabled=false
 
     # Whether or not Magic Quartz Scepter should be enabled. [default: true, synchronized: yes]
-    B:MagicQuartzScepterEnabled=true
+    B:MagicQuartzScepterEnabled=false
 
     # Whether or not Ode to Living Beings should be enabled. [default: true, synchronized: yes]
-    B:OdetoLivingBeingsEnabled=true
+    B:OdetoLivingBeingsEnabled=false
 
     # Whether or not Pact of Dark Night should be enabled. [default: true, synchronized: yes]
-    B:PactofDarkNightEnabled=true
+    B:PactofDarkNightEnabled=false
 
     # Whether or not Potion of Cosmic should be enabled. [default: true, synchronized: yes]
-    B:PotionofCosmicEnabled=true
+    B:PotionofCosmicEnabled=false
 
     # Whether or not Primeval Cube should be enabled. [default: true, synchronized: yes]
-    B:PrimevalCubeEnabled=true
+    B:PrimevalCubeEnabled=false
 
     # Whether or not Promise of the Earth should be enabled. [default: true, synchronized: yes]
-    B:PromiseoftheEarthEnabled=true
+    B:PromiseoftheEarthEnabled=false
 
     # Whether or not Pure Heart should be enabled. [default: true, synchronized: yes]
-    B:PureHeartEnabled=true
+    B:PureHeartEnabled=false
 
     # Whether or not Revival Leaf should be enabled. [default: true, synchronized: yes]
-    B:RevivalLeafEnabled=true
+    B:RevivalLeafEnabled=false
 
     # Whether or not Ring of Redemption should be enabled. [default: true, synchronized: yes]
-    B:RingofRedemptionEnabled=true
+    B:RingofRedemptionEnabled=false
 
     # Whether or not Ring of Ultimate Luxury should be enabled. [default: true, synchronized: yes]
-    B:RingofUltimateLuxuryEnabled=true
+    B:RingofUltimateLuxuryEnabled=false
 
     # Whether or not Sanguinary Hunting Handbook should be enabled. [default: true, synchronized: yes]
-    B:SanguinaryHuntingHandbookEnabled=true
+    B:SanguinaryHuntingHandbookEnabled=false
 
     # Whether or not Scepter of Extradimensional should be enabled. [default: true, synchronized: yes]
-    B:ScepterofExtradimensionalEnabled=true
+    B:ScepterofExtradimensionalEnabled=false
 
     # Whether or not Scroll of Ignorance Curse should be enabled. [default: true, synchronized: yes]
-    B:ScrollofIgnoranceCurseEnabled=true
+    B:ScrollofIgnoranceCurseEnabled=false
 
     # Whether or not Scroll of Thunder Embrace should be enabled. [default: true, synchronized: yes]
-    B:ScrollofThunderEmbraceEnabled=true
+    B:ScrollofThunderEmbraceEnabled=false
 
     # Whether or not Soul Lantern of Illusion should be enabled. [default: true, synchronized: yes]
-    B:SoulLanternofIllusionEnabled=true
+    B:SoulLanternofIllusionEnabled=false
 
     # Whether or not The Arrogance of Chaos should be enabled. [default: true, synchronized: yes]
-    B:TheArroganceofChaosEnabled=true
+    B:TheArroganceofChaosEnabled=false
 
     # Whether or not The Bless should be enabled. [default: true, synchronized: yes]
-    B:TheBlessEnabled=true
+    B:TheBlessEnabled=false
 
     # Whether or not The Curse Carver should be enabled. [default: true, synchronized: yes]
-    B:TheCurseCarverEnabled=true
+    B:TheCurseCarverEnabled=false
 
     # Whether or not Tome of Divination should be enabled. [default: true, synchronized: yes]
-    B:TomeofDivinationEnabled=true
+    B:TomeofDivinationEnabled=false
 
     # Whether or not Tome of Void should be enabled. [default: true, synchronized: yes]
-    B:TomeofVoidEnabled=true
+    B:TomeofVoidEnabled=false
 
     # Whether or not Totem of Malice should be enabled. [default: true, synchronized: yes]
-    B:TotemofMaliceEnabled=true
+    B:TotemofMaliceEnabled=false
 
     # Whether or not Ultimate Potions should be enabled. [default: true, synchronized: yes]
-    B:UltimatePotionsEnabled=true
+    B:UltimatePotionsEnabled=false
 }
 
 
@@ -242,7 +242,7 @@
     I:CharmofScorchedSunResistanceProbability=10
 
     # The damage modifier per every this curse. [range: 0 ~ 40, default: 4, synchronized: yes]
-    I:CurseofRedemptionEnchantmentResistanceModifier=4
+    I:CurseofRedemptionEnchantmentResistanceModifier=0
 
     # Attack speed increase provided by the Curse of Violence for absorbed curse. Measured as percentage. [range: 1 ~ 10, default: 4, synchronized: yes]
     I:CurseofViolenceAttackSpeedBoost=4
@@ -481,13 +481,13 @@
     I:RevivalLeafRegenerationTime=180
 
     # The damage boost of the Ring of Redemption. Measured in percentage. [range: 0 ~ 500, default: 20, synchronized: yes]
-    I:RingofRedemptionDamageBoost=20
+    I:RingofRedemptionDamageBoost=0
 
     # The damage resistance of the Ring of Redemption. Measured in percentage. [range: 0 ~ 100, default: 25, synchronized: yes]
-    I:RingofRedemptionDamageResistance=25
+    I:RingofRedemptionDamageResistance=0
 
     # The time required for each regeneration of Ring of Redemption. Measured in ticks. [range: 5 ~ 32768, default: 20, synchronized: yes]
-    I:RingofRedemptionRegenerationTick=20
+    I:RingofRedemptionRegenerationTick=32760
 
     # The damage boost multiplier of the Ring of Ultimate Luxury . [range: 0.0 ~ 2.0, default: 0.5, synchronized: yes]
     D:RingofUltimateLuxuryDamageBoostMultiplier=0.5
