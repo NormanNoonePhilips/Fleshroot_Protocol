@@ -20,6 +20,7 @@ user-prefs.json
 rhino.local.properties
 fancymenu_data/
 journeymap/
+ESM/
 
 # Modpack launcher artifacts
 .curseclient
