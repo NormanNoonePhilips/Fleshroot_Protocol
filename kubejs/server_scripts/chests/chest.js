@@ -28,6 +28,9 @@ function spillContents(context, builder){   //pull items out of the chest’s in
     if (!container) {
         return;
         }
+    
+    builder.add('primitivechests:primitive_chest');
+
     // iterate over every slot in that chest
     for (let slot = 0; slot < container.getSlots(); slot++){
         const stack = container.getItem(slot);
@@ -51,8 +54,8 @@ LootJS.modifiers((event) => {
 ServerEvents.recipes((event) => {
     // Remove any recipes that output these chests or vehicles
     for (const itemId of [annoyingChests.concat(annoyingVehicles)]){
-    event.remove({output: itemId});
-    console.log(`Removed recipe for '${itemId}'.`);
+        event.remove({output: itemId});
+        console.log(`Removed recipe for '${itemId}'.`);
     }
     console.log('Hello! The Chest removal recipe event has fired!')
 });

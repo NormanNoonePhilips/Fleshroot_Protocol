@@ -3,12 +3,10 @@
 ## Main Objectives
 - [ ] Set **FTB Quests**
 - [x] Remove all inventories and chests when breaking
-- [ ] Remove light items when breaking
+- [x] Remove light items when breaking
 - [ ] Create multiblock machineries
 - [ ] Set multiblock machineries
 - [ ] (Optional) Make 3D renders of multiblock machineries
-- [ ] Create passive skill tree
-- [ ] Divide drops and crafting by **Game Stages**
 
 ---
 
@@ -19,6 +17,7 @@
 - [ ] Configure **Apotheosis** spawners
 - [ ] DELETE all **Mekanism** crafting stations  
   - [ ] \(Maybe transform into multiblock machineries)
+- [ ] Block & configure **Scorched Guns**
 - [ ] Block & configure **Blood Magic**
 - [ ] Block & configure **Forbidden Arcanus**
 - [ ] Block useless **Enigmatic Legacy** items
