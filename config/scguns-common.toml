@@ -9,7 +9,7 @@
 		#Range: 0.1 ~ 100.0
 		ammoBoxCapacityMultiplier = 1.0
 		#If true, guns will be damageable and can break, coward if you toggle this
-		enableGunDamage = true
+		enableGunDamage = false
 		#If true, gun attachments will be damageable and can break, also a coward
 		enableAttachmentDamage = true
 		#The extra amount to expand an entity's bounding box when checking for projectile collision. Setting this value higher will make it easier to hit entities
@@ -19,7 +19,7 @@
 		enableHeadShots = true
 		#The value to multiply the damage by if projectile hit the players head
 		#Range: 1.0 ~ 1.7976931348623157E308
-		headShotDamageMultiplier = 1.25
+		headShotDamageMultiplier = 2
 		#The value to multiply the damage by if projectile is a critical hit
 		#Range: 1.0 ~ 1.7976931348623157E308
 		criticalDamageMultiplier = 1.5
@@ -29,7 +29,7 @@
 		enableKnockback = true
 		#Sets the strength of knockback when shot by a bullet projectile. Knockback must be enabled for this to take effect. If value is equal to zero, knockback will use default minecraft value
 		#Range: 0.0 ~ 1.0
-		knockbackStrength = 0.15
+		knockbackStrength = 0.2
 		#If true, improves the accuracy of weapons by considering the ping of the player. This has no affect on singleplayer. This will add a little overhead if enabled.
 		improvedHitboxes = false
 		#Damage dealt by the Enemy Guns
@@ -46,17 +46,17 @@
 		#Range: 0.01 ~ 10.0
 		globalDamageMultiplier = 1.0
 		#If true, the Brass Mask ritual will never spawn villagers. When disabled, it will spawn Dissidents instead based on the spawn chance below.
-		disableVillagerSpawning = false
+		disableVillagerSpawning = true
 		#When villager spawning is disabled, this is the chance (0.0 to 1.0) that a Dissident will spawn. If a Dissident doesn't spawn, nothing will be created from the ritual.
 		#Range: 0.0 ~ 1.0
-		dissidentSpawnChance = 0.1
+		dissidentSpawnChance = 0.0
 		#If true, guns will automatically start reloading when fired with an empty magazine if ammo is available
 		enableAutoReload = true
 
 		#Properties related to gun griefing
 		[common.gameplay.griefing]
 			#If enabled, allows block removal on explosions
-			enableBlockRemovalOnExplosions = true
+			enableBlockRemovalOnExplosions = false
 			#If enabled, allows guns to shoot out glass and other fragile objects
 			enableGlassBreaking = true
 			#If enabled, fragile blocks will drop their loot when broken
@@ -65,11 +65,11 @@
 			#Range: 0.0 ~ 1.0
 			fragileBlockBreakChance = 1.0
 			#If true, allows guns enchanted with Fire Starter to light and spread fires on blocks
-			setFireToBlocks = true
+			setFireToBlocks = false
 			#If true, allows heavy rounds to break blocks
-			enableBlockBreaking = true
+			enableBlockBreaking = false
 			#If true, allows beam weapons to mine blocks
-			enableBeamMining = true
+			enableBeamMining = false
 
 		[common.gameplay.gameplay]
 			#Set to false to disable the spawning of casing items when firing guns.
@@ -109,7 +109,7 @@
 		unsilencedRange = 20.0
 		#Any mobs within a sphere of this radius will flee from the shooter of a silenced gun.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		silencedRange = 5.0
+		silencedRange = 0.0
 		#LEGACY: Additional entities that will flee from gunshots. Animals are automatically detected. Use the 'scguns:fleeing_from_guns' entity tag instead for better mod compatibility.
 		fleeingEntities = ["minecraft:villager"]
 
@@ -117,13 +117,13 @@
 	[common.rockets]
 		#The max distance which the explosion is effective to
 		#Range: 0.0 ~ 1.7976931348623157E308
-		explosionRadius = 4.0
+		explosionRadius = 6.0
 
 	#Properties relating to grenades
 	[common.grenades]
 		#The max distance which the explosion is effective to
 		#Range: 0.0 ~ 1.7976931348623157E308
-		explosionRadius = 5.0
+		explosionRadius = 8.0
 
 	#Properties relating to stun grenades
 	[common.stun_grenades]
